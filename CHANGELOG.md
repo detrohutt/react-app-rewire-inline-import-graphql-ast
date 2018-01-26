@@ -1,5 +1,17 @@
 # ChangeLog
 
+## v1.0.3 (January 26, 2018)
+
+### Maintenance
+
+* Add "Known Issues" section to README.md
+
+## v1.0.2 (January 25, 2018)
+
+### Fixes
+
+* Make emergency upgrade of `babel-plugin-inline-import-graphql-ast` due to a broken release I published while adding the `nodePath` option needed by this package.
+
 ## v1.0.1 (January 25, 2018)
 
 ### Fixes
