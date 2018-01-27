@@ -1,3 +1,5 @@
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3AYURHRU7PMCL)
+
 # react-app-rewire-inline-import-graphql-ast
 
 Add [`babel-plugin-inline-import-graphql-ast`](https://github.com/detrohutt/babel-plugin-inline-import-graphql-ast) to your create-react-app app via [`react-app-rewired`](https://github.com/timarney/react-app-rewired)
