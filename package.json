@@ -1,6 +1,6 @@
 {
   "name": "react-app-rewire-inline-import-graphql-ast",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "A plugin to add the inline-import-graphql-ast Babel plugin to create-react-app with react-app-rewired",
   "repository": {
     "type": "git",
