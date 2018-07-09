@@ -1,5 +1,11 @@
 # ChangeLog
 
+## v1.1.1 (July 9, 2018)
+
+### Fixes
+
+- Fix plugin name in babel config (Thanks @Slessi)
+
 ## v1.1.0 (July 7, 2018)
 
 ### Features
