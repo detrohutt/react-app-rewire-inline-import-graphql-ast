@@ -2,7 +2,7 @@
 
 # react-app-rewire-inline-import-graphql-ast
 
-Add [`babel-plugin-inline-import-graphql-ast`](https://github.com/detrohutt/babel-plugin-inline-import-graphql-ast) to your create-react-app app via [`react-app-rewired`](https://github.com/timarney/react-app-rewired)
+Add [`babel-plugin-import-graphql`](https://github.com/detrohutt/babel-plugin-import-graphql) to your create-react-app app via [`react-app-rewired`](https://github.com/timarney/react-app-rewired)
 
 ## Known Issues
 
