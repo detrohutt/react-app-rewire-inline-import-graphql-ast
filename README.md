@@ -4,15 +4,10 @@
 
 Add [`babel-plugin-import-graphql`](https://github.com/detrohutt/babel-plugin-import-graphql) to your create-react-app app via [`react-app-rewired`](https://github.com/timarney/react-app-rewired)
 
-## Known Issues
+## Versions
 
-#### `Cannot read property 'type' of undefined` in file containing .gql/.graphql import
-
-I'm putting this right at the top because if you use this package to any real degree you'll almost certainly experience this error at some point and it can be hard to track down if you don't know what it is. This is caused by a bug in Babel 6 (Which create-react-app 1.x uses).
-
-A PR has been submitted to Babel [here](https://github.com/babel/babel/pull/7205) and hopefully they'll merge it and make a patch release soon.
-
-In the meantime, there's an easy, although annoying, workaround. Just change the content of the file throwing the error in any way. The easiest and most reliable change I've found is to simply add an empty comment `//` on it's own line when this error occurs. As the file gets updated over time, you can later remove the empty comment. I usually only have 1 or 2 of these in my project at any given time.
+For react-app-rewired@2.x use v2.x of this package.
+For react-app-rewired@1.x use v1.x of this package.
 
 ## Installation
 

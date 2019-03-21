@@ -9,7 +9,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "babel-plugin-import-graphql": "^2.6.2",
+    "babel-plugin-import-graphql": "^2.7.0",
     "customize-cra": "^0.2.12"
   },
   "peerDependencies": {

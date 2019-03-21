@@ -1,5 +1,19 @@
 # ChangeLog
 
+## v2.0.1 (March 21, 2019)
+
+### Maintenance
+
+- Update minimum version of babel-plugin-import-graphql to v2.7.0
+- Update CHANGELOG to add missing entry for v2.0.0
+- Update README to remove old known issue that only affects create-react-app@1.x
+
+## v2.0.0 (March 21, 2019)
+
+### Breaking
+
+- Version 2.x of this package is for use with version 2.x of react-app-rewired (Thanks @stushurik)
+
 ## v1.1.1 (July 9, 2018)
 
 ### Fixes
